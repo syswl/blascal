@@ -1,24 +1,22 @@
 <h1 align="center">
   <a href="https://personal.psu.edu/wak5122/blascal.html">
-    <img src="LOGO.svg" width=200/>
-    <br>
-    Blascal
+    <img src="LOGO.svg"/><br>Blascal
   </a>
 </h1>
 
 <h3 align="center">Health and wellness application for the DS 440 class.</h3>
 
 <div align="center">
-  <a href="README.md">
+  <a href="https://github.com/syswl/blascal">
     <img src="https://img.shields.io/badge/Development%20Status-Active-brightgreen"/>
   </a>
-  <a href="README.md">
+  <a href="https://github.com/syswl/blascal">
     <img src="https://img.shields.io/discord/temp?logo=discord"/>
   </a>
 </div>
 <br/>
 
-This application was designed to help people better manage their health and wellness by efortlessly integrating into their lifestyles.
+This application was designed to help people better manage their health and wellness by effortlessly integrating better habits into their lifestyles.
 
 Try out Blascal [here](https://personal.psu.edu/wak5122/blascal.html)!
 
