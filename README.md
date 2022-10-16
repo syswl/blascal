@@ -9,8 +9,10 @@
 <h3 align="center">Health and wellness application for the DS 440 class.</h3>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Development%20Status-Active-brightgreen"/>
-  <a href="https://example.com">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/Development%20Status-Active-brightgreen"/>
+  </a>
+  <a href="README.md">
     <img src="https://img.shields.io/discord/temp?logo=discord"/>
   </a>
 </div>
