@@ -1,16 +1,17 @@
 <h1 align="center">
   <a href="https://personal.psu.edu/wak5122/blascal.html">
-  <img src="LOGO.svg" width=200/>
-  <br>
-  Blascal
+    <img src="LOGO.svg" width=200/>
+    <br>
+    Blascal
   </a>
 </h1>
 
 <h3 align="center">Health and wellness application for the DS 440 class.</h3>
 
 <div align="center">
+<img src="https://img.shields.io/badge/Development%20Status-Active-brightgreen"/>
   <a href="https://example.com">
-    <img src="https://img.shields.io/discord/temp?logo=discord" />
+    <img src="https://img.shields.io/discord/temp?logo=discord"/>
   </a>
 </div>
 <br/>
