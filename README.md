@@ -20,7 +20,8 @@ This application was designed to help people better manage their health and well
 
 Try out Blascal [here](https://personal.psu.edu/wak5122/blascal.html)!
 
-![](SAMPLE.png)
+![](SAMPLE-1.png)
+![](SAMPLE-2.png)
 
 ## Scope
 
