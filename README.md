@@ -40,4 +40,4 @@ TODO
 
 ## License
 
-This software is licensed under the <a href="LICENSE">GNU Affero General Public License v3.0</a>.
+This software is licensed under the [GNU Affero General Public License v3.0](LICENSE).
